@@ -21,7 +21,8 @@
         >
           <nuxt-link :to="`/${page.slug}`">{{ page.title }}</nuxt-link>
         </li>
-        <li><a href="index.2html">KFZ-Vergleich</a></li>
+        <li><a href="index-kfz.html">KFZ-Vergleich</a></li>
+                <li><a href="impressum.html">Impressum</a></li>
       </ul>
     </nav>
   </header>
