@@ -33,6 +33,9 @@
 import { Component, Vue } from 'nuxt-property-decorator';
 import settings from '@/content/settings/general.json';
 
+import LogRocket from 'logrocket';
+LogRocket.init('cjlodg/tarif');
+
 @Component
 export default class Header extends Vue {
   get pages(): Page[] {
