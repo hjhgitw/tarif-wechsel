@@ -22,6 +22,8 @@
           <nuxt-link :to="`/${page.slug}`">{{ page.title }}</nuxt-link>
         </li>
         <div style="width: 100%" id="c24pp-dsl-iframe"></div>
+                <li class="block font-medium px-4 py-1 md:p-2 lg:px-4" ><a href="index-cc.credit.card.html">Kreditkarte</a></li>
+                        <li class="block font-medium px-4 py-1 md:p-2 lg:px-4" ><a href="index-banc.acc.html">Girokonto</a></li>
         <li class="block font-medium px-4 py-1 md:p-2 lg:px-4" ><a href="index-dsl.html">DSL-Vergleich</a></li>
         <li class="block font-medium px-4 py-1 md:p-2 lg:px-4" ><a href="index-kfz.html">KFZ-Vergleich</a></li>
         <li class="block font-medium px-4 py-1 md:p-2 lg:px-4" ><a href="index-strom.html">Strom-Vergleich</a></li>
