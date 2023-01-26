@@ -3308,6 +3308,11 @@ babel-messages@^6.23.0:
   dependencies:
     babel-runtime "^6.22.0"
 
+babel-plugin-add-react-displayname@0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/babel-plugin-add-react-displayname/-/babel-plugin-add-react-displayname-0.0.5.tgz#339d4cddb7b65fd62d1df9db9fe04de134122bd5"
+  integrity sha512-LY3+Y0XVDYcShHHorshrDbt4KFWL4bSeniCtl4SYZbask+Syngk1uMPCeN9+nSiZo6zX5s0RTq/J9Pnaaf/KHw==
+
 babel-plugin-dynamic-import-node@^2.3.3:
   version "2.3.3"
   resolved "https://registry.yarnpkg.com/babel-plugin-dynamic-import-node/-/babel-plugin-dynamic-import-node-2.3.3.tgz#84fda19c976ec5c6defef57f9427b3def66e17a3"
@@ -8375,6 +8380,16 @@ loglevel@^1.6.2:
   resolved "https://registry.yarnpkg.com/loglevel/-/loglevel-1.6.6.tgz#0ee6300cc058db6b3551fa1c4bf73b83bb771312"
   integrity sha512-Sgr5lbboAUBo3eXCSPL4/KoVz3ROKquOjcctxmHIt+vol2DrqTQe3SwkKKuYhEiWB5kYa13YyopJ69deJ1irzQ==
 
+logrocket-react@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/logrocket-react/-/logrocket-react-4.0.1.tgz#e8e5405ee5f47f2c25b511931e360713a623f927"
+  integrity sha512-TbQELEaDQspKHH0XylAeVZpsHoAcz+sIEG/enUQiH+LoYLW7cMK000XIS6W3Zz14zS0V2Db+KyKi8ivBpGYkzg==
+
+logrocket@^1.0.14:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/logrocket/-/logrocket-1.3.0.tgz#d21dba32a09bb7bc8309943a4692e22580614ad1"
+  integrity sha512-iP3l9hgBJxTkATZKJs93+uUJBvfg6QkV3+wNk9YB/wkJweXfsH9cNyYRx1PxI4BXvgX/CGR0qwbP7Vvo8STtgg==
+
 loose-envify@^1.0.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/loose-envify/-/loose-envify-1.4.0.tgz#71ee51fa7be4caec1a63839f7e682d8132d30caf"
@@ -12742,9 +12757,9 @@ typescript@~3.8:
   integrity sha512-MYlEfn5VrLNsgudQTVJeNaQFUAI7DkhnOjdpAp4T+ku1TfQClewlbSuTVHiA+8skNBgaf02TL/kLOvig4y3G8w==
 
 ua-parser-js@^0.7.21:
-  version "0.7.21"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.21.tgz#853cf9ce93f642f67174273cc34565ae6f308777"
-  integrity sha512-+O8/qh/Qj8CgC6eYBVBykMrNtp5Gebn4dlGD/kKXVkJNDwyrAwSIqwz8CDf+tsAIWVycKcku6gIXJ0qwx/ZXaQ==
+  version "0.7.33"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.33.tgz#1d04acb4ccef9293df6f70f2c3d22f3030d8b532"
+  integrity sha512-s8ax/CeZdK9R/56Sui0WM6y9OFREJarMRHqLB2EwkovemBxNQ+Bqu8GAsUnVcXKgphb++ghr/B2BZx4mahujPw==
 
 uc.micro@^1.0.1, uc.micro@^1.0.5:
   version "1.0.6"
